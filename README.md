@@ -1,8 +1,6 @@
 Utilities
 ====
 
-# Docker
+## Docker
 
-## `show-docker-ip.sh`
-
-* Show ip address for each docker container
+* `show-docker-ip.sh`: shows ip address for each docker container.
